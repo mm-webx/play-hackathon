@@ -1,0 +1,2 @@
+tests:
+	pipenv run pytest
